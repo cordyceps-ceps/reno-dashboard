@@ -194,8 +194,8 @@
     {
       "id": "cctv-drainage",
       "type": "nick",
-      "title": "Resolve CCTV drainage question",
-      "description": "Is it a hard dependency for BC submission? Get definitive answer from Daniel.",
+      "title": "Tell Daniel: no CCTV drainage survey",
+      "description": "Decision made — Jet will manage drainage as-found during build. Daniel should ensure this is not listed as a BC dependency.",
       "owner": "Nick",
       "dueNote": "Before BC submission",
       "workstream": "building-control",
