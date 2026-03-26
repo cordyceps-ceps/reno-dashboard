@@ -1,31 +1,34 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-10",
-    "project": "32A Tressillian Road Renovation",
+    "lastUpdated": "2026-03-26",
+    "project": "32A Tressillian Road ✨ Dream House Renovation ✨",
     "address": "32A Tressillian Road, London SE4 1YB"
   },
   "keyDates": [
-    { "label": "Jet starts", "date": "2026-03-27", "note": "Late March — Phase 1 begins" },
-    { "label": "Phase 1 target complete", "date": "2026-04-30", "note": "~5 weeks from start" },
-    { "label": "Baby due", "date": "2026-06-01", "note": "June 2026 — hard deadline" },
-    { "label": "Phase 2 earliest start", "date": "2026-07-01", "note": "After baby + all 4 approvals cleared" },
-    { "label": "Contractor insurance expires", "date": "2027-01-08", "note": "Build Choice policy GQ638300/220465" }
+    { "label": "Jet starts 💅", "date": "2026-04-06", "note": "Phase 1 begins — it's literally going to be so cute" },
+    { "label": "Phase 1 done 🎀", "date": "2026-04-30", "note": "~5 fabulous weeks" },
+    { "label": "Baby girl!! 👶💖", "date": "2026-06-01", "note": "The most important deadline, obviously" },
+    { "label": "Phase 2 earliest 🏗️", "date": "2026-07-01", "note": "After baby + all 4 approvals — we got this!" },
+    { "label": "Insurance expiry 📋", "date": "2027-01-08", "note": "Build Choice policy — not cute, but necessary" }
   ],
   "phase1": {
-    "contractor": "Build Choice (Jetmir Hysenaj)",
-    "startDate": "Late March 2026",
+    "contractor": "Build Choice (Jetmir — he's amazing 💪)",
+    "startDate": "6 April 2026",
     "estimatedWeeks": 5,
-    "note": "Non-structural works only — no approvals required",
+    "note": "Non-structural works only — no boring approvals needed! We can just GO!",
     "rooms": [
-      { "name": "Top two bedrooms", "status": "in-prep", "note": "Walls being stripped" },
-      { "name": "Bathroom", "status": "in-prep", "note": "Tile selection finalised" },
-      { "name": "Stairs & entrance hallway", "status": "in-prep", "note": "" },
-      { "name": "Utility room", "status": "not-started", "note": "Under front stairs" },
-      { "name": "Lounge", "status": "in-prep", "note": "Currently stripped back" }
+      { "name": "Top two bedrooms 🛏️", "status": "in-prep", "note": "Full refurb — starting 6 April" },
+      { "name": "Bathroom 🛁✨", "status": "in-prep", "note": "Full reno + pipework — tiles & vanity chosen!" },
+      { "name": "Hallways 💃", "status": "in-prep", "note": "Refurb + tidy all pipework" },
+      { "name": "Stairway wall 🧱", "status": "in-prep", "note": "Build wall next to stairway" },
+      { "name": "Lounge 🛋️", "status": "in-prep", "note": "Clean up + check if doors work without structural" },
+      { "name": "Upstairs stairs 🪜", "status": "pending", "note": "Bracing — cost split with neighbours TBD" },
+      { "name": "Utility room 🧺", "status": "pending", "note": "Awaiting quote from Jet" },
+      { "name": "Backyard 🌿", "status": "pending", "note": "Digging — awaiting quote from Jet" }
     ]
   },
   "phase2": {
-    "note": "Structural works — requires all 4 approvals",
+    "note": "The BIG transformation — needs all 4 approvals first 💅",
     "gateConditions": [
       "Planning permission",
       "Building control approval",
@@ -33,57 +36,57 @@
       "Licence to Alter"
     ],
     "scope": [
-      "Remove load-bearing wall, replace with structural steel beams and columns",
-      "New concrete ground beams and strip footings",
-      "New RC retaining walls to rear",
-      "New 150mm RC slab at lower ground floor level",
-      "Localised underpinning of party wall foundations",
-      "Open-plan kitchen/dining and living space",
-      "New aluminium bi-fold doors + high-level window to rear",
-      "Like-for-like timber window replacements (side)",
-      "New retaining wall with planters and steps to rear garden",
-      "ACO drainage connected to existing system",
-      "New non-load-bearing internal stud partitions"
+      "Bye bye load-bearing wall — hello gorgeous steel beams! 💪",
+      "New concrete ground beams and footings (strong foundations, like us)",
+      "Reinforced concrete retaining walls — because safety is always in style",
+      "Brand new 150mm RC slab — a fresh start from the ground up!",
+      "Underpinning party wall foundations — being a considerate neighbour 💖",
+      "OPEN-PLAN KITCHEN DINING LIVING — the dream!! 🤩",
+      "Aluminium bi-fold doors opening to the garden — SO much natural light!",
+      "Matching timber windows on the side — keeping it classic",
+      "Garden steps with planters — outdoor entertaining goals 🌸",
+      "Drainage sorted properly — not glamorous but so important",
+      "New stud partitions to make everything flow perfectly"
     ]
   },
   "workstreams": [
     {
       "id": "planning",
-      "name": "Planning Permission",
+      "name": "Planning Permission 📋",
       "number": 4,
       "status": "in-progress",
       "statusLabel": "In determination",
-      "summary": "Application submitted and validated. In 8-week determination period.",
+      "summary": "Application submitted, validated, and now we're in the 8-week determination period. Fingers crossed, manifesting approval energy! ✨",
       "lastUpdate": "24 Feb 2026",
       "detail": [
-        "Application submitted ~19 Jan 2026; council fee paid",
-        "Validation delayed — Lewisham required additional window detail drawings (conservation area)",
-        "Window technical drawings submitted to planning officer ~24 Feb 2026",
-        "Now in 8-week determination period",
-        "Lewisham noted to sometimes experience delays"
+        "Application submitted ~19 Jan 2026 — council fee paid like the responsible queens we are 👑",
+        "Had a tiny delay — Lewisham wanted extra window drawings because it's a conservation area (fair enough!)",
+        "Daniel sent the gorgeous window technical drawings on ~24 Feb 2026",
+        "Now we're in the 8-week wait — patience is a virtue, babes",
+        "Lewisham sometimes runs a teeny bit behind schedule — but that's okay, we're flexible!"
       ],
-      "waitingOn": "Lewisham planning decision (~8 weeks from validation)",
-      "nickActions": ["Confirm exact validation date and 8-week deadline with Daniel"],
+      "waitingOn": "Lewisham planning decision — come on council, say yes! 🙏💖",
+      "nickActions": ["Ask Daniel for the exact validation date so we can count down properly! 📅"],
       "contacts": [
         { "name": "Lewisham Planning", "email": "planning@lewisham.gov.uk", "phone": "020 8314 7400" }
       ]
     },
     {
       "id": "building-control",
-      "name": "Building Control",
+      "name": "Building Control 🏗️",
       "number": 1,
       "status": "imminent",
-      "statusLabel": "BC drawings expected",
-      "summary": "Daniel preparing BC drawings. Once submitted, Lewisham has 5 working days to accept Initial Notice.",
+      "statusLabel": "BC drawings incoming!",
+      "summary": "Daniel is finalising the building control drawings — like, literally any moment now! Once submitted, Lewisham gets 5 working days to accept. Easy peasy! 💅",
       "lastUpdate": "10 Mar 2026",
       "detail": [
-        "London Building Control (private AI) selected at £950+VAT — Nick approved 10 Mar",
-        "Daniel instructed to proceed on Nick's behalf",
-        "BC drawings in final checks as of 10 Mar — expected same day",
-        "Once submitted: Initial Notice sent to Lewisham (5 working days to accept), then plan check begins",
-        "Works cannot begin until party wall agreements are formally signed"
+        "We chose London Building Control (private AI) at £950+VAT — Nick said yes on 10 Mar 👍",
+        "Daniel is on it — instructed to proceed immediately",
+        "BC drawings were in final checks on 10 Mar — should be done super soon!",
+        "Once submitted: Initial Notice goes to Lewisham (5 working days to accept), then plan check starts",
+        "Just FYI — can't start structural works until party wall agreements are signed (but Phase 1 is totally fine!)"
       ],
-      "waitingOn": "BC drawings from Daniel; then Initial Notice acceptance from Lewisham",
+      "waitingOn": "BC drawings from Daniel — then Lewisham accepts the Initial Notice ✨",
       "nickActions": [],
       "contacts": [
         { "name": "Daniel Cieslak (Detailed Planning)", "email": "daniel@detailed-planning.co.uk" },
@@ -92,50 +95,52 @@
     },
     {
       "id": "party-wall",
-      "name": "Party Wall",
+      "name": "Party Wall 🏘️",
       "number": 2,
       "status": "active",
-      "statusLabel": "Awaiting surveyor decision",
-      "summary": "Lewisham dissented, appointed Andy Copper. Exploring agreed surveyor route. Two neighbours likely to dissent.",
+      "statusLabel": "Navigating neighbour vibes",
+      "summary": "Okay so this one's a bit of a journey! Lewisham dissented (totally standard, don't stress 💆‍♀️), and appointed Andy Copper as their surveyor. We're trying to get Andy as the agreed surveyor for everyone — much simpler! Two neighbours are a liiittle nervous but we'll work it out 💖",
       "lastUpdate": "10 Mar 2026",
       "detail": [
-        "Notices served 25 Feb 2026 under Section 2(2) Party Wall Act 1996",
-        "Served on Lewisham (freeholder of 30A, 30B, 32B) and separately on leaseholders",
-        "Lewisham dissented → appointed Andy Copper (Party Wall Works Ltd)",
-        "9 Mar: Nick asked Lewisham party wall team if Andy can act as agreed surveyor",
-        "9 Mar: Nick asked Andy if he can act as agreed surveyor for neighbours too",
-        "Two neighbours spoken to — both likely to want involvement; at least one uneasy",
-        "Nick does not yet have his own surveyor"
+        "Notices served 25 Feb 2026 — official and proper, just like us 📋✨",
+        "Served on Lewisham (they own the freehold of 30A, 30B, 32B) AND the actual neighbours",
+        "Lewisham dissented → appointed Andy Copper (Party Wall Works Ltd) — this is normal, don't panic!",
+        "9 Mar: Nick asked Lewisham if Andy can be the agreed surveyor instead — saves everyone time and money!",
+        "9 Mar: Also asked Andy if he can do the same for the neighbours — manifesting a yes! 🙏",
+        "Two neighbours have been spoken to — they want to be involved, which is totally their right 💖",
+        "Nick hasn't appointed his own surveyor yet — holding off to see if the agreed route works"
       ],
-      "waitingOn": "Andy Copper reply; Lewisham party wall reply re agreed surveyor",
+      "waitingOn": "Andy Copper and Lewisham party wall replies — come on bestie, check your email! 📧",
       "nickActions": [
-        "If agreed surveyor route fails → appoint own surveyor (Jon Hicks / SSES preferred, from £695+VAT)"
+        "If the agreed surveyor thing doesn't work out → appoint Jon Hicks / SSES (from £695+VAT) — he's Lewisham's preferred surveyor so that's a good sign! ⭐"
       ],
       "contacts": [
         { "name": "Andy Copper (Party Wall Works)", "email": "admin@partywallworks.co.uk" },
         { "name": "Lewisham Party Wall", "email": "party.wall@lewisham.gov.uk" },
-        { "name": "Jon Hicks / SSES (backup surveyor)", "email": "" }
+        { "name": "Jon Hicks / SSES (backup bestie)", "email": "" }
       ]
     },
     {
       "id": "lta",
-      "name": "Licence to Alter",
+      "name": "Licence to Alter 📜",
       "number": 3,
       "status": "submitted",
-      "statusLabel": "Application submitted",
-      "summary": "Full LTA application submitted to Lewisham HOS. Awaiting officer assignment.",
-      "lastUpdate": "10 Mar 2026",
+      "statusLabel": "With Consultation Team!",
+      "summary": "Application submitted AND acknowledged! Juliet from the council has passed it to the Consultation Team — they'll get back to us within 10 working days (~25 March). We're on the list, babes! 💅✨",
+      "lastUpdate": "11 Mar 2026",
       "detail": [
-        "First contact Nov 2025 — initially blocked by Notice of Assignment not on file (resolved)",
-        "Full application submitted to HOS@lewisham.gov.uk and LeaseholderEnquiries@lewisham.gov.uk ~10 Mar 2026",
-        "7 documents submitted: disclaimer, RAMS, insurance, architectural plans, structural plans/sections/spec",
-        "Lewisham auto-acknowledged — will respond within 2 working days with assigned officer and timeline",
-        "Key contact: Lianne Holland (Home Ownership Officer)"
+        "Started this journey back in Nov 2025 — had a little hiccup with Notice of Assignment not being on file (sorted now! 💪)",
+        "Full application submitted to Lewisham HOS on ~10 Mar 2026 with ALL seven documents — we came prepared!",
+        "Documents sent: disclaimer, RAMS, insurance, architectural plans, structural plans/sections/spec",
+        "11 Mar 2026: Juliet Agbanubu (Inbox Duty Officer) confirmed it's with the Consultation Team! 🎉",
+        "Response expected within 10 working days (~25 March 2026) — marked it in the diary! 📅",
+        "Key contact: Lianne Holland (Home Ownership Officer) — she's been helpful!"
       ],
-      "waitingOn": "Lewisham HOS — officer assignment and timeline (within 2 working days of 10 Mar)",
+      "waitingOn": "Consultation Team response by ~25 March — counting down! 🗓️💖",
       "nickActions": [],
       "contacts": [
         { "name": "Lewisham HOS", "email": "HOS@lewisham.gov.uk", "phone": "0800 028 2028 option 3" },
+        { "name": "Juliet Agbanubu (Inbox Officer)", "email": "" },
         { "name": "Lianne Holland (Home Ownership)", "email": "" }
       ]
     }
@@ -144,18 +149,18 @@
     {
       "id": "bc-drawings",
       "type": "waiting",
-      "title": "BC drawings from Daniel",
-      "description": "Daniel to issue final BC drawings and submit Initial Notice to London BC",
+      "title": "BC drawings from Daniel 📐",
+      "description": "Daniel to send the final BC drawings and submit the Initial Notice to London BC — come on Daniel, we believe in you! ✨",
       "owner": "Daniel Cieslak",
-      "dueNote": "Expected 10 Mar (today)",
+      "dueNote": "Expected 10 Mar",
       "workstream": "building-control",
       "priority": "high"
     },
     {
       "id": "andy-copper-reply",
       "type": "waiting",
-      "title": "Andy Copper — agreed surveyor reply",
-      "description": "Can Andy act as agreed surveyor for the two neighbours (in addition to Lewisham)?",
+      "title": "Andy Copper — agreed surveyor? 🤞",
+      "description": "Can Andy be the agreed surveyor for the two neighbours too? That would make everything SO much simpler!",
       "owner": "Andy Copper",
       "dueNote": "Email sent 10 Mar",
       "workstream": "party-wall",
@@ -164,68 +169,68 @@
     {
       "id": "lewisham-pw-reply",
       "type": "waiting",
-      "title": "Lewisham party wall — agreed surveyor reply",
-      "description": "Would Lewisham agree to Andy acting as agreed surveyor (changing from appointed surveyor)?",
+      "title": "Lewisham party wall reply 🏛️",
+      "description": "Would Lewisham be okay with Andy being the agreed surveyor instead? Pretty please? 🙏",
       "owner": "Lewisham Party Wall",
       "dueNote": "Email sent 9 Mar",
       "workstream": "party-wall",
       "priority": "high"
     },
     {
-      "id": "lta-officer",
+      "id": "lta-consultation",
       "type": "waiting",
-      "title": "Lewisham HOS — LTA officer assigned",
-      "description": "Awaiting officer assignment and timeline for licence to alter decision",
-      "owner": "Lewisham HOS",
-      "dueNote": "Within 2 working days of 10 Mar",
+      "title": "LTA — Consultation Team response 💅",
+      "description": "Juliet confirmed it's with the Consultation Team! Response within 10 working days. We're manifesting approval energy! ✨",
+      "owner": "Lewisham HOS Consultation Team",
+      "dueNote": "By ~25 March 2026",
       "workstream": "lta",
       "priority": "high"
     },
     {
       "id": "planning-validation",
       "type": "nick",
-      "title": "Confirm planning validation date",
-      "description": "Ask Daniel for the exact validation date so the 8-week determination deadline can be tracked",
+      "title": "Get the exact planning validation date 📅",
+      "description": "Ask Daniel when planning was officially validated so we can track the 8-week countdown properly!",
       "owner": "Nick",
-      "dueNote": "Soon",
+      "dueNote": "Soon-ish",
       "workstream": "planning",
       "priority": "medium"
     },
-
     {
       "id": "own-surveyor",
       "type": "nick",
-      "title": "Appoint own party wall surveyor if agreed route fails",
-      "description": "Jon Hicks / SSES (Lewisham preferred, from £695+VAT) — on hold pending Andy's reply",
+      "title": "Maybe appoint own party wall surveyor 🤔",
+      "description": "Jon Hicks / SSES is the backup plan if the agreed surveyor route doesn't work — from £695+VAT. On hold for now!",
       "owner": "Nick",
-      "dueNote": "On hold",
+      "dueNote": "On hold — fingers crossed we don't need this!",
       "workstream": "party-wall",
       "priority": "low"
     }
   ],
   "timeline": [
-    { "date": "Aug 2025", "event": "Nick & Tess purchase 32A Tressillian Road", "type": "milestone" },
-    { "date": "Nov 2025", "event": "First contact with Lewisham re LTA and planning", "type": "admin" },
-    { "date": "3 Dec 2025", "event": "Contract signed with Detailed Planning", "type": "milestone" },
-    { "date": "12 Dec 2025", "event": "Site visit and 3D scan by Detailed Planning", "type": "milestone" },
-    { "date": "6 Jan 2026", "event": "Design decisions finalised (open plan, bifolds, no fireplace)", "type": "decision" },
-    { "date": "19 Jan 2026", "event": "Planning application submitted to Lewisham", "type": "milestone" },
-    { "date": "17 Feb 2026", "event": "MCM Structures issue preliminary structural design", "type": "milestone" },
-    { "date": "25 Feb 2026", "event": "Party wall notices served on Lewisham and all three neighbours", "type": "milestone" },
-    { "date": "9 Mar 2026", "event": "Lewisham dissent received — Andy Copper appointed as their surveyor", "type": "milestone" },
-    { "date": "10 Mar 2026", "event": "London BC instructed (£950+VAT). LTA application submitted.", "type": "milestone" },
-    { "date": "10 Mar 2026", "event": "Phased approach decided — Phase 1 starts late March, Phase 2 after baby", "type": "decision" },
-    { "date": "Late Mar 2026", "event": "Jet (Build Choice) starts Phase 1 works", "type": "upcoming" },
-    { "date": "Late Apr 2026", "event": "Phase 1 target completion", "type": "upcoming" },
-    { "date": "Jun 2026", "event": "Baby due", "type": "personal" },
-    { "date": "Summer 2026", "event": "Phase 2 structural works begin (subject to all approvals)", "type": "upcoming" }
+    { "date": "Aug 2025", "event": "Nick & Tess bought their dream house!! 🏡💖", "type": "milestone" },
+    { "date": "Nov 2025", "event": "First chats with Lewisham about the LTA and planning — the journey begins! ✨", "type": "admin" },
+    { "date": "3 Dec 2025", "event": "Signed with Detailed Planning — let's make this dream a reality! 📝💅", "type": "milestone" },
+    { "date": "12 Dec 2025", "event": "Site visit and 3D scan — the house got its photoshoot! 📸", "type": "milestone" },
+    { "date": "6 Jan 2026", "event": "Design decisions locked in! Open plan, bifolds, no fireplace — we know what we want 💁‍♀️", "type": "decision" },
+    { "date": "19 Jan 2026", "event": "Planning application submitted — manifest manifest manifest! 🙏✨", "type": "milestone" },
+    { "date": "17 Feb 2026", "event": "MCM Structures delivered the structural design — the engineering is giving 💪", "type": "milestone" },
+    { "date": "25 Feb 2026", "event": "Party wall notices served — being a responsible homeowner queen 👑", "type": "milestone" },
+    { "date": "9 Mar 2026", "event": "Lewisham dissented (totally normal!) — Andy Copper is their surveyor now", "type": "milestone" },
+    { "date": "10 Mar 2026", "event": "London BC instructed + LTA application submitted — productive day slay! 💅", "type": "milestone" },
+    { "date": "10 Mar 2026", "event": "PHASED APPROACH DECIDED — Phase 1 starts ASAP, Phase 2 after baby. Smart! 🧠", "type": "decision" },
+    { "date": "11 Mar 2026", "event": "LTA acknowledged! Consultation Team has it — response by ~25 March 🎉", "type": "milestone" },
+    { "date": "Late Mar", "event": "Jet starts Phase 1!! Let's goooo! 🎀🏗️", "type": "upcoming" },
+    { "date": "Late Apr", "event": "Phase 1 target completion — the upstairs glow-up! ✨", "type": "upcoming" },
+    { "date": "Jun 2026", "event": "BABY GIRL ARRIVES!! 👶💖🎀 The most important thing ever!!", "type": "personal" },
+    { "date": "Summer 2026", "event": "Phase 2 structural works begin — the big transformation! 🏗️✨", "type": "upcoming" }
   ],
   "team": [
-    { "role": "Architect", "name": "Daniel Cieslak", "company": "Detailed Planning Ltd", "email": "daniel@detailed-planning.co.uk", "ref": "2624NM" },
-    { "role": "Structural Engineer", "name": "Marcus Marinos", "company": "MCM Structures Ltd", "email": "marcus@mcmstructures.co.uk", "phone": "020 3576 3954" },
-    { "role": "Contractor", "name": "Jetmir Hysenaj", "company": "Build Choice", "email": "", "note": "Insurance valid to 08/01/2027" },
-    { "role": "Building Control", "name": "Sarah Gordon", "company": "London Building Control", "email": "", "note": "£950+VAT, Class 2 Category A" },
-    { "role": "Party Wall Surveyor (Lewisham's)", "name": "Andy Copper", "company": "Party Wall Works Ltd", "email": "admin@partywallworks.co.uk" },
-    { "role": "Solicitors", "name": "Edward Chuck / David Stockley", "company": "Meaby & Co", "email": "echuck@meaby.co.uk", "phone": "020 7703 5034" }
+    { "role": "Architect ✏️", "name": "Daniel Cieslak", "company": "Detailed Planning Ltd", "email": "daniel@detailed-planning.co.uk", "ref": "2624NM", "note": "Our design king 👑" },
+    { "role": "Structural Engineer 🔧", "name": "Marcus Marinos", "company": "MCM Structures Ltd", "email": "marcus@mcmstructures.co.uk", "phone": "020 3576 3954", "note": "Making sure nothing falls down — hero! 💪" },
+    { "role": "Contractor 🏗️", "name": "Jetmir Hysenaj", "company": "Build Choice", "email": "", "note": "Insurance valid to 08/01/2027 — the man who makes it happen! ⭐" },
+    { "role": "Building Control 📋", "name": "Sarah Gordon", "company": "London Building Control", "email": "", "note": "£950+VAT — worth every penny for peace of mind 💅" },
+    { "role": "Party Wall Surveyor 🏘️", "name": "Andy Copper", "company": "Party Wall Works Ltd", "email": "admin@partywallworks.co.uk", "note": "Lewisham's pick — hoping he can do all three! 🤞" },
+    { "role": "Solicitors ⚖️", "name": "Edward Chuck / David Stockley", "company": "Meaby & Co", "email": "echuck@meaby.co.uk", "phone": "020 7703 5034", "note": "The legal besties 💼" }
   ]
 }
