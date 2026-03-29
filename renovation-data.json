@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-26",
+    "lastUpdated": "2026-03-29",
     "project": "32A Tressillian Road ✨ Dream House Renovation ✨",
     "address": "32A Tressillian Road, London SE4 1YB"
   },
@@ -77,18 +77,22 @@
       "name": "Building Control 🏗️",
       "number": 1,
       "status": "in-progress",
-      "statusLabel": "Drawings issued — Initial Notice pending",
-      "summary": "BC drawings fully issued 11 March (REV0 + final SE section detail). Daniel submitting Initial Notice with updated drawings. On track! ✅",
-      "lastUpdate": "11 Mar 2026",
+      "statusLabel": "Initial Notice SERVED ✅ — Lewisham accepting by ~1 April",
+      "summary": "Initial Notice served to Lewisham 23 March! 5 working days to accept (~1 April). Inspecting surveyor assigned: Radoslaw Muciek. Plan checker: Simon Hepburn. Payment due within 30 days. Once accepted, this unblocks the LP application!",
+      "lastUpdate": "23 Mar 2026",
       "detail": [
         "London Building Control instructed at £950+VAT — Class 2 Category A",
         "BC drawings fully issued 11 March (REV0 + final SE section detail) ✅",
         "Daniel confirmed minor SE revision 'doesn't change anything'",
-        "Daniel submitting Initial Notice with updated drawings",
+        "23 March: Initial Notice SERVED to Lewisham Building Control ✅",
+        "5 working days for acceptance → ~1 April 2026",
+        "Inspecting surveyor: Radoslaw Muciek (07780248376) — book inspections 48hrs ahead",
+        "Plan checker: Simon Hepburn — send drawings to info@londonbuildingcontrol.co.uk",
+        "Payment due within 30 days of 23 March",
         "Once submitted: Lewisham gets 5 working days to accept, then plan check starts",
         "BC approval needed to unblock LP application"
       ],
-      "waitingOn": "Daniel to submit Initial Notice → Lewisham to accept ✨",
+      "waitingOn": "Lewisham to accept Initial Notice by ~1 April → then send to Maia to unblock LP",
       "nickActions": [],
       "contacts": [
         { "name": "Daniel Cieslak (Detailed Planning)", "email": "daniel@detailed-planning.co.uk" },
@@ -150,12 +154,12 @@
   ],
   "actions": [
     {
-      "id": "bc-initial-notice",
+      "id": "bc-acceptance",
       "type": "waiting",
-      "title": "Daniel to submit Initial Notice 📐",
-      "description": "BC drawings issued 11 Mar. Daniel submitting Initial Notice with updated drawings to London BC.",
-      "owner": "Daniel Cieslak",
-      "dueNote": "Imminent",
+      "title": "Lewisham to accept Initial Notice 📐",
+      "description": "Initial Notice served 23 March. Lewisham has 5 working days to accept (~1 April). Once accepted, send to Maia to unblock LP.",
+      "owner": "Lewisham Building Control",
+      "dueNote": "~1 April 2026",
       "workstream": "building-control",
       "priority": "high"
     },
@@ -236,8 +240,10 @@
     { "date": "11 Mar 2026", "event": "LTA acknowledged — passed to Consultation Team", "type": "milestone" },
     { "date": "12 Mar 2026", "event": "LBC application submitted by Daniel", "type": "milestone" },
     { "date": "18 Mar 2026", "event": "Andy Copper confirmed as AGREED SURVEYOR ✅ — big win!", "type": "milestone" },
+    { "date": "23 Mar 2026", "event": "BC Initial Notice SERVED to Lewisham ✅ — 5 days to accept", "type": "milestone" },
     { "date": "25 Mar 2026", "event": "Daniel chased planning officer — awaiting response", "type": "admin" },
     { "date": "26 Mar 2026", "event": "Call with Jet — Phase 1 start confirmed 6 April! 🎉", "type": "milestone" },
+    { "date": "28 Mar 2026", "event": "Bathroom design finalised — vanity, bath, sconces, downlights, renders", "type": "decision" },
     { "date": "6 Apr 2026", "event": "JET STARTS! Phase 1 begins 🏗️✨", "type": "upcoming" },
     { "date": "Jun 2026", "event": "BABY GIRL ARRIVES!! 👶💖", "type": "personal" },
     { "date": "Summer 2026", "event": "Phase 2 structural works begin (all approvals needed)", "type": "upcoming" }
